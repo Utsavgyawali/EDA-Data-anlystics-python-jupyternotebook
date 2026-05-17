@@ -1,7 +1,7 @@
 End-to-End Data Analysis Portfolio Project
 
 ##  Project Introduction
-This repository contains a comprehensive, end-to-end data analysis project designed to showcase practical data analytics skills. The project bridges the gap between raw data and strategic decision-making by taking a messy, real-world business dataset through a structured lifecycle—entirely within a Python and Jupyter Notebook environment. 
+This repository contains a comprehensive, end-to-end data analysis project designed to showcase practical data analytics skills. The project bridges the gap between raw data and strategic decision-making by taking a messy, real-world business dataset through a structured lifecycle entirely within a Python and Jupyter Notebook environment. 
 
 The primary objective is to extract meaningful patterns, handle data quality issues, and present actionable insights to stakeholders.
 
